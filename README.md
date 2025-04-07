@@ -1,5 +1,3 @@
-# cyber-journey
-my journey of leaning cyber beyond what it is 
 # Cyber Journey — Shadow Hacker Log
 
 This repository documents my path to becoming a professional in cybersecurity, both Red Team (Offensive) and Blue Team (Defensive).
