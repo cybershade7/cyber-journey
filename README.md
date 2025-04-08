@@ -10,5 +10,5 @@ This repository documents my path to becoming a professional in cybersecurity, b
 ## 📅 Timeline
 - **April 2025**: Phase 1 — Core Training Begins
 - 
-- Day 1- I've leaned some basic command in linux. Can't say I'm intrigue. It's getting more excited. I'm using "overthewire" and "chatgpt" to leant linux command as fast as i can. Maybe in future,
+- Day 1- I've leaned some basic command in linux. Can't say I'm intrigue. It's getting more excited. I'm using "overthewire" and "chatgpt" to learn linux command as fast as I can. Maybe in future,
   I'm gonna use some more advanced tools, who knows.
